@@ -78,4 +78,9 @@ footer {
   main section p {
     font-size: 1rem;
   }
+  footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #1a1a2e;
+  color: #fff;
 }
